@@ -7,7 +7,7 @@
 
 |  Frontend | Frontend |       
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| [<img src="https://avatars.githubusercontent.com/u/96780693?v=4" width=180>](https://github.com/minjeongHEO) | [<img src="https://avatars.githubusercontent.com/u/110621233?v=4" width=180>](https://github.com/Jinga02) | 
+| [<img src="https://avatars.githubusercontent.com/u/96780693?v=4" width=190>](https://github.com/minjeongHEO) | [<img src="https://avatars.githubusercontent.com/u/110621233?v=4" width=190>](https://github.com/Jinga02) | 
 |         [우디](https://github.com/minjeongHEO)       |              [재화니](https://github.com/Jinga02)                     |             
 
 
